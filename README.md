@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CR1ST14N0
 - 👀 I’m interested in  html, java, android, database and web design!
 - 🌱 I’m currently learning  javascript
-- 💞️ I’m looking to collaborate on  novos projetos
+- 💞️ I’m looking to collaborate on  news projects
 - 📫 How to reach me :
 <br>
  My Site: <a href="https://webd.com.br">WEBD</a> 
