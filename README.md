@@ -1,10 +1,10 @@
 Hi, I'm @CR1ST14N0!
 
--My interest is in html, javascript, css, php, android, database, and new technologies (languages, ways of learning)!
+- My interest is in html, javascript, css, php, android, database, and new technologies (languages, ways of learning)!
 
--I'm currently looking to create my own projects
+- I'm currently looking to create my own projects
 
--I am willing to collaborate on new projects, putting into practice the acquired knowledge!
+- I am willing to collaborate on new projects, putting into practice the acquired knowledge!
 
 My means of contact:
 <br>
