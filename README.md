@@ -1,4 +1,4 @@
-Hi, I'm <p style="font-color: #ff0000;">@CR1ST14N0!</p>
+Hi, I'm <p style="color: #ff0000;">@CR1ST14N0!</p>
 
 - My interest is in html, javascript, css, php, android, database, and new technologies (languages, ways of learning)!
 
